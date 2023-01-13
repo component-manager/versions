@@ -1,11 +1,17 @@
 {
-  "name": "husky2",
-  "version": "0.0.4-pre.1",
-  "description": "Modern native Git hooks made easy",
+  "name": "@componenet-manager/versions",
+  "version": "0.0.4-pre.2",
+  "description": "@direktspeed/versions Protocol Integration for the Componenet Manager.",
   "keywords": [
     "git",
     "hooks",
-    "pre-commit"
+    "Web 4.0",
+    "direktspeed",
+    "versions",
+    "protocol",
+    "component",
+    "manager",
+    "component-manager"
   ],
   "homepage": "https://github.com/lemanschik/husky2",
   "repository": "lemanschik/husky2",
