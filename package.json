@@ -21,10 +21,10 @@
     "serve": "docsify serve docs",
     "prepare": "npm run build && node lib/bin install"
   },
-  "devDependencies": {
+  "noDevDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
-    "@tsconfig/node14": "^1.0.3",
+    "@tsconfig/node18": "^1.0.3",
     "@types/node": "^18.11.18",
     "@typicode/eslint-config": "^1.1.0",
     "docsify-cli": "^4.4.4",
