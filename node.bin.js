@@ -1,1 +1,1 @@
-#!/usr/bin/env -S node -e "import('./module-versions.js')"
+#!/usr/bin/env -S node --input-type=module -e "import('./module-versions.js')"
