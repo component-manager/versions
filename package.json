@@ -14,7 +14,7 @@
     "husky2.js",
     "husky2.bin.js"
   ],
-  "scripts": {
+  "noScripts": {
     "build": "tsc",
     "test": "sh test/all.sh",
     "lint": "eslint src --ext .ts",
